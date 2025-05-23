@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Stock-Out Date Predictor for Retail Inventory",
+    "description": "A lightweight and scalable machine learning pipeline using LightGBM to predict stock-out dates for retail inventory.",
+    "repo": "https://github.com/hungchenhsu/stockout-predictor-lightgbm",
+    "linkedin": "https://www.linkedin.com/posts/hungchenhsu_datascience-analytics-inventorymanagement-activity-7317244350365585408-aMQw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACuYogYBwahgmdhw9JLU9NqDIPynYBGEAPo"
+  },
+  {
+    "title": "Phantom Inventory Classifier",
+    "description": "Multi-model ML solution for detecting phantom inventory in retail.",
+    "repo": "https://github.com/hungchenhsu/phantom-inventory-classifier",
+    "linkedin": "https://www.linkedin.com/posts/hungchenhsu_machinelearning-randomforest-lstm-activity-7313023111413514242-9TFY?utm_source=share&utm_medium=member_desktop&rcm=ACoAACuYogYBwahgmdhw9JLU9NqDIPynYBGEAPo"
+  },
+  {
+    "title": "Water Allocation Optimization",
+    "description": "Optimized water allocation in global supply chains using SAS Viya.",
+    "repo": "https://github.com/hungchenhsu/global-supplychain-water-optimization",
+    "linkedin": "https://www.linkedin.com/posts/hungchenhsu_supplychainanalytics-sasviya-forecasting-activity-7311452577429168128-nrFc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACuYogYBwahgmdhw9JLU9NqDIPynYBGEAPo"
+  },
+  {
+    "title": "NCAA Bracket Prediction",
+    "description": "NCAA bracket prediction model for CCAC 2025 using XGBoost and engineered geospatial features.",
+    "repo": "https://github.com/hungchenhsu/ccac-2025-ncaa-bracket-xgboost",
+    "linkedin": "https://www.linkedin.com/posts/hungchenhsu_kaggle-datascience-machinelearning-activity-7309614857236951040-ygue?utm_source=share&utm_medium=member_desktop&rcm=ACoAACuYogYBwahgmdhw9JLU9NqDIPynYBGEAPo"
+  }
+]
