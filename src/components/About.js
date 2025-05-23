@@ -12,7 +12,7 @@ export default function About() {
       <h1 className="text-2xl font-bold mb-2">Hung-Chen Hsu</h1>
       <p className="text-center text-gray-600 mb-2">
         Data Scientist & Business Analyst<br />
-        Specializing in ML, Data Analytics, and AI-driven solutions.
+        Specializing in Data Science, Data Analysis, and AI-driven solutions.
       </p>
       <a
         href="https://www.linkedin.com/in/hungchenhsu/"
